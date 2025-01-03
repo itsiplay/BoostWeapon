@@ -14,7 +14,7 @@ BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom craf
 
 ### 1. Harpoon Gun
 - **Ability**: Grants a grappling ability to pull the player towards a target location where they are looking.
-- **Crafting Recipe**: Middle slot in the imgur image crafting grid.
+- **Crafting Recipe**: Middle slot in the imgur image crafting grid. Also requires a trident in the players inventory along with the Harpoon Gun item to work.
 
 ### 2. Sonic Bow
 - **Ability**: Fires arrows that deal the Warden's sonic boom attack upon landing.
