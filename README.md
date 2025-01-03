@@ -13,7 +13,7 @@ BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom craf
 ## Custom Weapons and items
 
 ### 1. Harpoon Gun
-- **Ability**: Grants a grappling ability to pull the player towards a target location.
+- **Ability**: Grants a grappling ability to pull the player towards a target location where they are looking.
 - **Crafting Recipe**: Middle slot in the imgur image crafting grid.
 
 ### 2. Sonic Bow
@@ -21,7 +21,7 @@ BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom craf
 - **Crafting Recipe**: Far left in the imgur image crafting grid.
 
 ### 3. Broadsword
-- **Ability**: Inflicts massive damage but features a slow recharge rate.
+- **Ability**: Inflicts massive damage but features a slow recharge rate and allows for a small dash ability which launches you a short disance.
 - **Crafting Recipe**: Far right in imgur image crafting grid.
 
 ### 4. Supercharge
