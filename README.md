@@ -35,7 +35,7 @@ BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom craf
 | Command              | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
 | `/sonicblast`        | Gives the player a Sonic Bow weapon. Requires operator access.                                       |
-| `/supercharge`       | Grants the player Strength III, Slowness IV, and a glowing effect for 2 minutes. Requires operator access.   |
+| `/supercharge`       | Gives the player a supercharge item and grants the player Strength III, Slowness IV, and a glowing effect for 2 minutes when used. Requires operator access.   |
 | `/givebroadsword`    | Gives the player a Broadsword. Requires operator access.                                               |
 | `/giveharpoongun`    | Gives the player a Harpoon Gun. Requires operator access.                                            |
 | `/boostcredits`      | Shows plugin credits. Does not require operator access.                   |
