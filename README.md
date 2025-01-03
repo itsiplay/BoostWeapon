@@ -2,7 +2,7 @@
 
 BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom crafting recipes to create unique weapons. Originally designed for my Minecraft server, the Boost SMP, it is now being publicly released for all to enjoy. While it complements the Boost plugin (also developed by me), it does not depend on it to function.
 
-**Please note:** This plugin is provided as-is, and no official support will be offered.
+**Please note:** This plugin is provided as-is, and no official support will be offered for future compatibility with newer paper versions and plugin errors.
 
 ## Features
 
@@ -53,6 +53,7 @@ BoostWeapon is a Minecraft Paper plugin for version 1.20.4 that adds custom craf
 ## Compatibility
 
 - Minecraft Paper Server version 1.20.4
+- Future versions may not work but 1.21.3 paper does work correctly
 
 ## Plugin Credits
 
